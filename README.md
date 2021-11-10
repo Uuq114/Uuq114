@@ -31,5 +31,8 @@
    - **WAKATIME_API_KEY:** The API key for your WakaTime account.
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
