@@ -1,3 +1,4 @@
+<!--
 <p align="center">
   <img width="400" src="https://user-images.githubusercontent.com/4658208/60469862-2e40bf00-9c2c-11e9-87f7-afe164648de4.png">
   <h3 align="center">waka-box</h3>
@@ -29,6 +30,11 @@
 1. Add the following environment variables:
    - **GH_TOKEN:** The GitHub token generated above.
    - **WAKATIME_API_KEY:** The API key for your WakaTime account.
+
+-->
+<p align="center">
+  <h3 align="center">📌Weekly WakaTime stats</h3>
+</p>
 
 <!--START_SECTION:waka-->
 ```text
