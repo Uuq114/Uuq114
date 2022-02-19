@@ -38,11 +38,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 1 hr 8 mins
+Total: 1 hr 31 mins
 
-C++          59 mins         ██████████████████████░░░   87.35 % 
-JavaScript   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-HTML         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+C++          1 hr 23 mins    ██████████████████████▓░░   90.56 % 
+JavaScript   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+HTML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 ```
 <!--END_SECTION:waka-->
 
