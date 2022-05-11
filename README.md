@@ -48,6 +48,7 @@ JSON   1 min           ▓░░░░░░░░░░░░░░░░░░
 <p align="center">
   <h3 align="center">📌 Overall Github Stats</h3>
 </p>
+
 <!-- START_SECTION: Github stats -->
 [![Uuq114's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uuq114&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 <!-- END_SECTION: Github stats -->
