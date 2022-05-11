@@ -36,12 +36,15 @@
   <h3 align="center">📌Weekly WakaTime stats</h3>
 </p>
 
-<!--START_SECTION:waka-->
+<!-- START_SECTION:waka -->
 
 ```text
 Go     47 mins         ████████████████████████▒   97.45 %
 JSON   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
-<!--END_SECTION:waka-->
+<!-- END_SECTION:waka-->
 
+<!-- START_SECTION: Github stats -->
+[![Uuq114's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uuq114&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- END_SECTION: Github stats -->
