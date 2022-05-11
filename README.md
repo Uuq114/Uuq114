@@ -33,7 +33,7 @@
 
 -->
 <p align="center">
-  <h3 align="center">📌Weekly WakaTime stats</h3>
+  <h3 align="center">📌 Weekly WakaTime Stats</h3>
 </p>
 
 <!-- START_SECTION:waka -->
@@ -45,6 +45,9 @@ JSON   1 min           ▓░░░░░░░░░░░░░░░░░░
 
 <!-- END_SECTION:waka-->
 
+<p align="center">
+  <h3 align="center">📌 Overall Github Stats</h3>
+</p>
 <!-- START_SECTION: Github stats -->
-[![Uuq114's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uuq114&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Uuq114's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uuq114&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 <!-- END_SECTION: Github stats -->
