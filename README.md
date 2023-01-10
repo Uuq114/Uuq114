@@ -33,15 +33,15 @@
 
 -->
 
-<!-- START_SECTION: Github stats -->
+<!--START_SECTION: Github stats-->
 <p align="center">
   <h3 align="center">📌 Overall Github Stats</h3>
 </p>
 
 [![Uuq114's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uuq114&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-<!-- END_SECTION: Github stats -->
+<!--END_SECTION: Github stats-->
 
-<!-- START_SECTION:waka -->
+<!--START_SECTION:waka-->
 <p align="center">
   <h3 align="center">📌 Weekly WakaTime Stats</h3>
 </p>
@@ -50,6 +50,5 @@
 Go     47 mins         ████████████████████████▒   97.45 %
 JSON   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
-
-<!-- END_SECTION:waka-->
+<!--END_SECTION:waka-->
 
