@@ -42,13 +42,4 @@
 <!--END_SECTION: Github stats-->
 
 <!--START_SECTION:waka-->
-<p align="center">
-  <h3 align="center">📌 Weekly WakaTime Stats</h3>
-</p>
-
-```text
-Go     47 mins         ████████████████████████▒   97.45 %
-JSON   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-```
 <!--END_SECTION:waka-->
-
