@@ -42,4 +42,14 @@
 <!--END_SECTION: Github stats-->
 
 <!--START_SECTION:waka-->
+
+```text
+From: 02 January 2023 - To: 09 January 2023
+
+Java          1 hr 17 mins    >>>>>>>>>>>>>>>>>>>>>>---   87.61 %
+C++           10 mins         >>>----------------------   12.38 %
+XML           0 secs          -------------------------   00.01 %
+IDEA_MODULE   0 secs          -------------------------   00.00 %
+```
+
 <!--END_SECTION:waka-->
