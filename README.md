@@ -44,11 +44,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 January 2023 - To: 13 January 2023
+From: 07 January 2023 - To: 14 January 2023
 
-Java   8 hrs 57 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   97.80 %
-C++    10 mins         -------------------------   01.98 %
-Text   1 min           -------------------------   00.22 %
+Java   12 hrs 46 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   99.84 %
+Text   1 min           -------------------------   00.16 %
 ```
 
 <!--END_SECTION:waka-->
