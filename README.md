@@ -45,11 +45,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 January 2023 - To: 15 January 2023
+From: 09 January 2023 - To: 16 January 2023
 
-Java         14 hrs 31 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   99.83 %
-Text         1 min           -------------------------   00.14 %
-Properties   0 secs          -------------------------   00.03 %
+Java         17 hrs 5 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   99.35 %
+SQL          4 mins          -------------------------   00.41 %
+Text         1 min           -------------------------   00.15 %
+Properties   0 secs          -------------------------   00.08 %
 ```
 
 <!--END_SECTION:waka-->
