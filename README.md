@@ -38,7 +38,7 @@
   <h3 align="center">📌 Overall Github Stats</h3>
 </p>
 
-[![Uuq114's GitHub stats]([https://github-readme-stats.vercel.app](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Uuq114&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Uuq114's GitHub stats]([https://github-readme-stats.vercel.app]([https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app](https://github-readme-stats-61qdveq2j-fanwangm.vercel.app/api?username=Uuq114&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--END_SECTION: Github stats-->
 
