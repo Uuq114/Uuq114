@@ -38,7 +38,7 @@
   <h3 align="center">📌 Overall Github Stats</h3>
 </p>
 
-![Uuq114's GitHub stats(https://github-readme-stats.zohan.tech/api?username=Uuq114&count_private=true&show_icons=true&theme=default)]
+![Uuq114's GitHub stats](https://github-readme-stats.zohan.tech/api?username=Uuq114&count_private=true&show_icons=true&theme=default)
 
 <!--END_SECTION: Github stats-->
 
