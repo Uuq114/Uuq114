@@ -45,14 +45,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 January 2023 - To: 04 February 2023
+From: 29 January 2023 - To: 05 February 2023
 
-Java           14 hrs 46 mins  >>>>>>>>>>>>>>>>>--------   66.20 %
-XML            6 hrs 36 mins   >>>>>>>------------------   29.59 %
-HTML           42 mins         >------------------------   03.20 %
-C++            9 mins          -------------------------   00.73 %
-HTTP Request   2 mins          -------------------------   00.16 %
-Properties     1 min           -------------------------   00.12 %
+Java           13 hrs 18 mins  >>>>>>>>>>>>>>>>---------   65.75 %
+XML            6 hrs 3 mins    >>>>>>>------------------   29.91 %
+HTML           42 mins         >------------------------   03.52 %
+Properties     7 mins          -------------------------   00.63 %
+HTTP Request   2 mins          -------------------------   00.18 %
+Markdown       0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
