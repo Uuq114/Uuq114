@@ -45,11 +45,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 February 2023 - To: 20 February 2023
+From: 14 February 2023 - To: 21 February 2023
 
-Java          6 hrs 3 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   97.88 %
-XML           7 mins          >------------------------   02.02 %
-IDEA_MODULE   0 secs          -------------------------   00.10 %
+Java          4 hrs 4 mins    >>>>>>>>>>>>>>>>>>>>>>>--   93.69 %
+XML           16 mins         >>-----------------------   06.16 %
+IDEA_MODULE   0 secs          -------------------------   00.14 %
 Properties    0 secs          -------------------------   00.00 %
 HTML          0 secs          -------------------------   00.00 %
 ```
