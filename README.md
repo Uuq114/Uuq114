@@ -45,13 +45,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 February 2023 - To: 26 February 2023
+From: 20 February 2023 - To: 27 February 2023
 
-Java          5 hrs 36 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   95.24 %
-XML           16 mins         >------------------------   04.65 %
-IDEA_MODULE   0 secs          -------------------------   00.11 %
-Properties    0 secs          -------------------------   00.00 %
-HTML          0 secs          -------------------------   00.00 %
+Java   7 hrs 33 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   98.05 %
+XML    9 mins          -------------------------   01.95 %
 ```
 
 <!--END_SECTION:waka-->
