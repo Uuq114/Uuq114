@@ -45,14 +45,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 March 2023 - To: 16 March 2023
+From: 10 March 2023 - To: 17 March 2023
 
-C++              8 hrs 3 mins    >>>>>>>>>>>>>>>>---------   65.99 %
-ObjectiveC       3 hrs 43 mins   >>>>>>>>-----------------   30.45 %
-Markdown         8 mins          -------------------------   01.23 %
-GitIgnore file   7 mins          -------------------------   01.01 %
-CMake            3 mins          -------------------------   00.51 %
-Text             2 mins          -------------------------   00.32 %
+C++              6 hrs 20 mins   >>>>>>>>>>>>>>>>---------   64.92 %
+ObjectiveC       3 hrs 1 min     >>>>>>>>-----------------   30.98 %
+Markdown         8 mins          -------------------------   01.51 %
+GitIgnore file   5 mins          -------------------------   01.02 %
+XML              2 mins          -------------------------   00.48 %
+textmate         1 min           -------------------------   00.32 %
 ```
 
 <!--END_SECTION:waka-->
