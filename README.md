@@ -45,11 +45,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 April 2023 - To: 12 April 2023
+From: 06 April 2023 - To: 13 April 2023
 
-Scheme   3 hrs 23 mins   >>>>>>>>>>>>>>>>---------   62.12 %
-Python   1 hr 12 mins    >>>>>>-------------------   22.00 %
-Text     52 mins         >>>>---------------------   15.88 %
+Scheme   2 hrs 46 mins   >>>>>>>>>>>>>>>----------   59.59 %
+Python   1 hr 9 mins     >>>>>>-------------------   24.88 %
+Text     43 mins         >>>>---------------------   15.54 %
 ```
 
 <!--END_SECTION:waka-->
