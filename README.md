@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2023 - To: 06 June 2023
+From: 31 May 2023 - To: 07 June 2023
 
-YAML               3 hrs 52 mins   >>>>>>>>>>>--------------   44.04 %
-reStructuredText   1 hr 54 mins    >>>>>--------------------   21.63 %
-Markdown           35 mins         >>-----------------------   06.82 %
-Text               28 mins         >------------------------   05.44 %
-Makefile           27 mins         >------------------------   05.27 %
+YAML               3 hrs 27 mins   >>>>>>>>>>---------------   39.78 %
+reStructuredText   2 hrs 10 mins   >>>>>>-------------------   24.98 %
+Markdown           35 mins         >>-----------------------   06.88 %
+Makefile           32 mins         >>-----------------------   06.18 %
+Text               27 mins         >------------------------   05.29 %
 ```
 
 <!--END_SECTION:waka-->
