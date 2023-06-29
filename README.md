@@ -35,7 +35,7 @@
 
 <!--START_SECTION: Github stats-->
 <p align="center">
-  <h3 align="center">Hi there 👋</h3>
+  <h3>Hi there 👋</h3>
 </p>
 
 ![Uuq114's GitHub stats](https://github-readme-stats.zohan.tech/api?username=Uuq114&count_private=true&show_icons=true&theme=default)
