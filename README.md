@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 June 2023 - To: 28 June 2023
+From: 22 June 2023 - To: 29 June 2023
 
-Puppet             2 hrs 42 mins   >>>>>>>------------------   28.99 %
-YAML               2 hrs 38 mins   >>>>>>>------------------   28.45 %
-D                  1 hr 23 mins    >>>>---------------------   14.91 %
-Markdown           51 mins         >>-----------------------   09.17 %
-reStructuredText   38 mins         >>-----------------------   06.95 %
+YAML               3 hrs 56 mins   >>>>>>>>>----------------   37.49 %
+Puppet             2 hrs 55 mins   >>>>>>>------------------   27.88 %
+D                  1 hr 7 mins     >>>----------------------   10.76 %
+Markdown           51 mins         >>-----------------------   08.13 %
+reStructuredText   38 mins         >>-----------------------   06.16 %
 ```
 
 <!--END_SECTION:waka-->
