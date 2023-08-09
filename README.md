@@ -45,11 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2023 - To: 07 August 2023
+From: 01 August 2023 - To: 08 August 2023
 
-Markdown   13 mins         >>>>>>>>>>>>-------------   49.20 %
-Python     13 mins         >>>>>>>>>>>>-------------   47.73 %
-HTML       0 secs          >------------------------   03.07 %
+Markdown   13 mins         >>>>>>>>>----------------   34.15 %
+Python     13 mins         >>>>>>>>-----------------   33.12 %
+YAML       11 mins         >>>>>>>------------------   28.64 %
+HTML       0 secs          >------------------------   02.13 %
+textmate   0 secs          -------------------------   01.94 %
 ```
 
 <!--END_SECTION:waka-->
