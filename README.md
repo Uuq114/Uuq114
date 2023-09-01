@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2023 - To: 30 August 2023
+From: 24 August 2023 - To: 31 August 2023
 
-Python             1 hr 10 mins    >>>>>>>------------------   28.44 %
-YAML               45 mins         >>>>>--------------------   18.15 %
-reStructuredText   43 mins         >>>>---------------------   17.65 %
-Makefile           23 mins         >>-----------------------   09.30 %
-Puppet             20 mins         >>-----------------------   08.11 %
+Python             1 hr 43 mins    >>>>>>>>>>>>>>>>---------   63.37 %
+YAML               39 mins         >>>>>>-------------------   24.55 %
+Ruby               8 mins          >------------------------   04.92 %
+Text               5 mins          >------------------------   03.34 %
+Makefile           2 mins          -------------------------   01.53 %
 ```
 
 <!--END_SECTION:waka-->
