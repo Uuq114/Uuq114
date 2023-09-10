@@ -45,7 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2023 - To: 08 September 2023
+From: 02 September 2023 - To: 09 September 2023
 
 Markdown           2 hrs 12 mins   >>>>>>>>>>>>>------------   53.20 %
 reStructuredText   49 mins         >>>>>--------------------   20.12 %
