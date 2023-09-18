@@ -45,7 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2023 - To: 16 September 2023
+From: 10 September 2023 - To: 17 September 2023
 
 YAML             2 hrs 15 mins   >>>>>>>>>>>>>>>>---------   65.69 %
 Go               30 mins         >>>>---------------------   14.73 %
