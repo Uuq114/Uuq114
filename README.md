@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2023 - To: 17 September 2023
+From: 11 September 2023 - To: 18 September 2023
 
-YAML             2 hrs 15 mins   >>>>>>>>>>>>>>>>---------   65.69 %
-Go               30 mins         >>>>---------------------   14.73 %
-Puppet           15 mins         >>-----------------------   07.53 %
-Markdown         13 mins         >>-----------------------   06.42 %
-textmate         6 mins          >------------------------   03.00 %
+YAML           1 hr 51 mins    >>>>>>>>>>>>>>>>>--------   66.00 %
+Go             22 mins         >>>----------------------   13.47 %
+Puppet         14 mins         >>-----------------------   08.74 %
+Markdown       12 mins         >>-----------------------   07.35 %
+textmate       6 mins          >------------------------   03.68 %
 ```
 
 <!--END_SECTION:waka-->
