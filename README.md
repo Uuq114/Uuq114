@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 September 2023 - To: 26 September 2023
+From: 20 September 2023 - To: 27 September 2023
 
-reStructuredText   2 hrs 19 mins   >>>>>>>>>>>--------------   42.19 %
-Text               1 hr 5 mins     >>>>>--------------------   19.80 %
-Python             1 hr 1 min      >>>>>--------------------   18.75 %
-Bash               18 mins         >------------------------   05.55 %
-HTML               10 mins         >------------------------   03.24 %
+reStructuredText   3 hrs 9 mins    >>>>>>>>>>>>>>-----------   56.86 %
+Text               1 hr 33 mins    >>>>>>>------------------   27.97 %
+HTML               34 mins         >>>----------------------   10.21 %
+Markdown           9 mins          >------------------------   02.77 %
+Makefile           3 mins          -------------------------   01.15 %
 ```
 
 <!--END_SECTION:waka-->
