@@ -45,12 +45,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2023 - To: 27 September 2023
+From: 21 September 2023 - To: 28 September 2023
 
-reStructuredText   3 hrs 9 mins    >>>>>>>>>>>>>>-----------   56.86 %
-Text               1 hr 33 mins    >>>>>>>------------------   27.97 %
-HTML               34 mins         >>>----------------------   10.21 %
-Markdown           9 mins          >------------------------   02.77 %
+reStructuredText   3 hrs 9 mins    >>>>>>>>>>>>>>-----------   57.27 %
+Text               1 hr 33 mins    >>>>>>>------------------   28.17 %
+HTML               34 mins         >>>----------------------   10.29 %
+Markdown           9 mins          >------------------------   02.79 %
 Makefile           3 mins          -------------------------   01.15 %
 ```
 
