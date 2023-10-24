@@ -45,13 +45,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 October 2023 - To: 22 October 2023
+From: 16 October 2023 - To: 23 October 2023
 
-reStructuredText   55 mins         >>>>>>>>>>---------------   41.27 %
-Markdown           31 mins         >>>>>>-------------------   23.43 %
-Text               21 mins         >>>>---------------------   15.78 %
-YAML               19 mins         >>>>---------------------   14.77 %
-Assembly           3 mins          >------------------------   02.32 %
+Markdown   31 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
