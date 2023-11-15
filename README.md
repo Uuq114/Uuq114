@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 November 2023 - To: 13 November 2023
+From: 07 November 2023 - To: 14 November 2023
 
-Python             1 hr 25 mins    >>>>>>>>>>---------------   40.26 %
-reStructuredText   44 mins         >>>>>--------------------   20.97 %
-Go                 34 mins         >>>>---------------------   16.47 %
-Markdown           33 mins         >>>>---------------------   16.00 %
-textmate           11 mins         >------------------------   05.63 %
+Python             1 hr 47 mins    >>>>>>>>>>>>>>>----------   59.78 %
+Go                 35 mins         >>>>>--------------------   19.39 %
+Markdown           24 mins         >>>----------------------   13.78 %
+YAML               6 mins          >------------------------   03.34 %
+Lua                5 mins          >------------------------   02.77 %
 ```
 
 <!--END_SECTION:waka-->
