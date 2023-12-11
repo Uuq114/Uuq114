@@ -45,7 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2023 - To: 09 December 2023
+From: 03 December 2023 - To: 10 December 2023
 
 Markdown   45 mins         >>>>>>>>-----------------   31.86 %
 YAML       36 mins         >>>>>>-------------------   25.50 %
