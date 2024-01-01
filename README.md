@@ -45,7 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2023 - To: 30 December 2023
+From: 24 December 2023 - To: 31 December 2023
 
 YAML           1 hr 9 mins     >>>>>>>>>>>>>------------   52.97 %
 Ruby           28 mins         >>>>>--------------------   21.76 %
