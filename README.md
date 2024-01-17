@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 January 2024 - To: 15 January 2024
+From: 09 January 2024 - To: 16 January 2024
 
-YAML               2 hrs 2 mins    >>>>>>>>-----------------   30.01 %
-Markdown           1 hr 48 mins    >>>>>>>------------------   26.53 %
-Puppet             1 hr 35 mins    >>>>>>-------------------   23.38 %
-Text               50 mins         >>>----------------------   12.47 %
-Ruby               8 mins          >------------------------   02.12 %
+YAML               2 hrs 10 mins   >>>>>>>>-----------------   30.25 %
+Markdown           1 hr 44 mins    >>>>>>-------------------   24.15 %
+Puppet             1 hr 35 mins    >>>>>>-------------------   22.05 %
+Text               50 mins         >>>----------------------   11.70 %
+Ruby               28 mins         >>-----------------------   06.67 %
 ```
 
 <!--END_SECTION:waka-->
