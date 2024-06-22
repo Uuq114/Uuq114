@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 June 2024 - To: 20 June 2024
+From: 14 June 2024 - To: 21 June 2024
 
-Go                 1 hr 39 mins    >>>>>>>>>>>>-------------   46.45 %
-YAML               56 mins         >>>>>>>------------------   26.37 %
-Markdown           43 mins         >>>>>--------------------   20.51 %
-textmate           4 mins          >------------------------   02.12 %
-SSH Config         2 mins          -------------------------   01.31 %
+YAML               42 mins         >>>>>>>>>>>>>>-----------   57.94 %
+Markdown           19 mins         >>>>>>>------------------   26.04 %
+textmate           4 mins          >>-----------------------   06.11 %
+SSH Config         2 mins          >------------------------   03.80 %
+reStructuredText   1 min           >------------------------   02.28 %
 ```
 
 <!--END_SECTION:waka-->
