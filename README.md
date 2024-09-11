@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2024 - To: 09 September 2024
+From: 03 September 2024 - To: 10 September 2024
 
-C++            4 hrs 45 mins   >>>>>>>>>>>>>>>>---------   65.20 %
-Markdown       51 mins         >>>----------------------   11.68 %
-YAML           24 mins         >------------------------   05.63 %
-C              19 mins         >------------------------   04.56 %
-Text           17 mins         >------------------------   04.10 %
+C++                4 hrs 2 mins    >>>>>>>>>>>--------------   43.00 %
+Markdown           2 hrs 39 mins   >>>>>>>------------------   28.16 %
+reStructuredText   59 mins         >>>----------------------   10.60 %
+YAML               24 mins         >------------------------   04.32 %
+Text               17 mins         >------------------------   03.18 %
 ```
 
 <!--END_SECTION:waka-->
