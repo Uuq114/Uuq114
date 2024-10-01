@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 September 2024 - To: 29 September 2024
+From: 23 September 2024 - To: 30 September 2024
 
-YAML               1 hr 24 mins    >>>>>>>>>>>>>>>>---------   64.77 %
-Markdown           17 mins         >>>----------------------   13.40 %
-Lua                13 mins         >>>----------------------   10.47 %
-Ruby               8 mins          >>-----------------------   06.43 %
-textmate           5 mins          >------------------------   03.97 %
+YAML       1 hr 54 mins    >>>>>>>>>>>>>>>>>>>------   75.92 %
+Markdown   14 mins         >>-----------------------   09.40 %
+Ruby       11 mins         >>-----------------------   07.33 %
+Puppet     4 mins          >------------------------   02.88 %
+Text       3 mins          >------------------------   02.56 %
 ```
 
 <!--END_SECTION:waka-->
