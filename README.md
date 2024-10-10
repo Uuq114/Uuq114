@@ -45,10 +45,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2024 - To: 08 October 2024
+From: 02 October 2024 - To: 09 October 2024
 
-Markdown   4 hrs 3 mins    >>>>>>>>>>>>>>>>>>>>-----   81.29 %
-YAML       56 mins         >>>>>--------------------   18.71 %
+Markdown   4 hrs 27 mins   >>>>>>>>>>>>>>>>>>-------   72.56 %
+YAML       1 hr 23 mins    >>>>>>-------------------   22.80 %
+Lua        17 mins         >------------------------   04.64 %
 Text       0 secs          -------------------------   00.00 %
 Ruby       0 secs          -------------------------   00.00 %
 ```
