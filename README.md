@@ -45,7 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2024 - To: 30 November 2024
+From: 24 November 2024 - To: 01 December 2024
 
 Markdown   38 mins         >>>>>>>>>>>>>>>>>>>------   77.72 %
 YAML       10 mins         >>>>>--------------------   21.87 %
