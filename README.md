@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2024 - To: 11 December 2024
+From: 05 December 2024 - To: 12 December 2024
 
-Go               4 hrs 23 mins   >>>>>>>>>>>>>>-----------   57.57 %
-Markdown         1 hr 37 mins    >>>>>--------------------   21.27 %
-YAML             59 mins         >>>----------------------   12.96 %
-Text             24 mins         >------------------------   05.33 %
-textmate         5 mins          -------------------------   01.13 %
+Go               1 hr 52 mins    >>>>>>>>>----------------   34.99 %
+Markdown         1 hr 37 mins    >>>>>>>>-----------------   30.38 %
+YAML             52 mins         >>>>---------------------   16.37 %
+Text             48 mins         >>>>---------------------   15.20 %
+textmate         5 mins          -------------------------   01.76 %
 ```
 
 <!--END_SECTION:waka-->
