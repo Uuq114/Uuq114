@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 December 2024 - To: 24 December 2024
+From: 18 December 2024 - To: 25 December 2024
 
-Puppet     8 mins          >>>>>>>>>>>>>>>>>>>>-----   78.55 %
-Markdown   2 mins          >>>>>--------------------   19.79 %
-YAML       0 secs          -------------------------   01.60 %
-Ruby       0 secs          -------------------------   00.04 %
-textmate   0 secs          -------------------------   00.01 %
+YAML       2 mins          >>>>>>>>>>>>-------------   48.55 %
+Markdown   2 mins          >>>>>>>>>>>>-------------   46.14 %
+textmate   0 secs          >------------------------   05.16 %
+Ruby       0 secs          -------------------------   00.14 %
+INI        0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
