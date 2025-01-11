@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 January 2025 - To: 09 January 2025
+From: 03 January 2025 - To: 10 January 2025
 
-Markdown     3 hrs 40 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   94.08 %
-Puppet       6 mins          >------------------------   02.91 %
-YAML         5 mins          >------------------------   02.52 %
-Git          0 secs          -------------------------   00.32 %
-SSH Config   0 secs          -------------------------   00.12 %
+Markdown     4 hrs 58 mins   >>>>>>>>>>>>>>>>>>>>>>>--   91.66 %
+YAML         19 mins         >------------------------   05.89 %
+Puppet       6 mins          >------------------------   02.10 %
+Git          0 secs          -------------------------   00.23 %
+SSH Config   0 secs          -------------------------   00.09 %
 ```
 
 <!--END_SECTION:waka-->
