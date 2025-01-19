@@ -45,7 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2025 - To: 17 January 2025
+From: 11 January 2025 - To: 18 January 2025
 
 reStructuredText   35 mins         >>>>>>>>>>---------------   40.97 %
 YAML               26 mins         >>>>>>>>-----------------   30.41 %
