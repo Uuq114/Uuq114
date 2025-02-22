@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2025 - To: 20 February 2025
+From: 14 February 2025 - To: 21 February 2025
 
-C++            3 hrs 15 mins   >>>>>>>>>>>>>>>>---------   64.80 %
-Python         1 hr 17 mins    >>>>>>-------------------   25.65 %
-Markdown       20 mins         >>-----------------------   06.84 %
-YAML           5 mins          -------------------------   01.87 %
-Makefile       2 mins          -------------------------   00.76 %
+C++            4 hrs 34 mins   >>>>>>>>>>>>>>>>>>>>>>>--   91.84 %
+Markdown       15 mins         >------------------------   05.34 %
+YAML           5 mins          -------------------------   01.89 %
+Makefile       2 mins          -------------------------   00.77 %
+Python         0 secs          -------------------------   00.10 %
 ```
 
 <!--END_SECTION:waka-->
