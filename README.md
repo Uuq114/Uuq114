@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2025 - To: 26 March 2025
+From: 20 March 2025 - To: 27 March 2025
 
-Markdown         3 hrs 1 min     >>>>>>>>>>>>>------------   53.13 %
-Other            1 hr 7 mins     >>>>>--------------------   19.64 %
-YAML             58 mins         >>>>---------------------   17.20 %
-Text             23 mins         >>-----------------------   06.85 %
-Python           10 mins         >------------------------   03.14 %
+Markdown           2 hrs 26 mins   >>>>>>>>>>>>-------------   47.43 %
+Other              1 hr 7 mins     >>>>>--------------------   21.83 %
+YAML               41 mins         >>>----------------------   13.58 %
+Text               23 mins         >>-----------------------   07.61 %
+reStructuredText   11 mins         >------------------------   03.65 %
 ```
 
 <!--END_SECTION:waka-->
