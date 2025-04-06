@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2025 - To: 04 April 2025
+From: 29 March 2025 - To: 05 April 2025
 
-Markdown     1 hr 19 mins    >>>>>>>>>>>>>>>>>>>>>----   85.39 %
-ObjectiveC   4 mins          >------------------------   04.98 %
-YAML         2 mins          >------------------------   03.14 %
-CMake        2 mins          >------------------------   03.07 %
-SSH Config   1 min           -------------------------   01.96 %
+ObjectiveC   4 mins          >>>>>>>------------------   27.69 %
+Markdown     4 mins          >>>>>>-------------------   25.23 %
+YAML         2 mins          >>>>---------------------   17.46 %
+CMake        2 mins          >>>>---------------------   17.08 %
+SSH Config   1 min           >>>----------------------   10.92 %
 ```
 
 <!--END_SECTION:waka-->
