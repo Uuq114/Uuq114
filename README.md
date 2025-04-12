@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 April 2025 - To: 10 April 2025
+From: 04 April 2025 - To: 11 April 2025
 
-Go                 2 hrs 6 mins    >>>>>>>>>>>>>>>>>>-------   72.82 %
-reStructuredText   36 mins         >>>>>--------------------   21.18 %
-textmate           3 mins          >------------------------   02.26 %
-YAML               3 mins          >------------------------   02.20 %
-Other              1 min           -------------------------   00.95 %
+Go                 3 hrs 23 mins   >>>>>>>>>>>>>>>>>>-------   73.58 %
+reStructuredText   49 mins         >>>>>--------------------   18.06 %
+textmate           7 mins          >------------------------   02.85 %
+Other              6 mins          >------------------------   02.34 %
+YAML               4 mins          -------------------------   01.48 %
 ```
 
 <!--END_SECTION:waka-->
