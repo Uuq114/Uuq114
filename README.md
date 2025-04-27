@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 April 2025 - To: 25 April 2025
+From: 19 April 2025 - To: 26 April 2025
 
-Text               30 mins         >>>>>>>>>>>>>------------   51.62 %
-reStructuredText   15 mins         >>>>>>>------------------   26.69 %
-textmate           5 mins          >>-----------------------   08.62 %
-Lua                4 mins          >>-----------------------   07.71 %
-Makefile           1 min           >------------------------   03.19 %
+Markdown           31 mins         >>>>>>>>>----------------   34.51 %
+Text               30 mins         >>>>>>>>-----------------   33.82 %
+reStructuredText   15 mins         >>>>---------------------   17.49 %
+textmate           5 mins          >------------------------   05.65 %
+Lua                4 mins          >------------------------   05.05 %
 ```
 
 <!--END_SECTION:waka-->
