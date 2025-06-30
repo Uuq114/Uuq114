@@ -45,12 +45,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 June 2025 - To: 28 June 2025
+From: 22 June 2025 - To: 29 June 2025
 
-Markdown   1 hr 17 mins    >>>>>>>>>>>>>>>>>>>>>----   82.75 %
-YAML       16 mins         >>>>---------------------   17.24 %
+YAML       11 mins         >>>>>>>>>>>>>>-----------   56.56 %
+Markdown   8 mins          >>>>>>>>>>>--------------   43.43 %
+textmate   0 secs          -------------------------   00.01 %
 Lua        0 secs          -------------------------   00.00 %
-textmate   0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
