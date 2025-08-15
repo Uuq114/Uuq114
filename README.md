@@ -45,7 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2025 - To: 13 August 2025
+From: 07 August 2025 - To: 14 August 2025
 
 YAML         36 mins         >>>>>>>>>>>>>------------   50.39 %
 Markdown     25 mins         >>>>>>>>>----------------   34.45 %
