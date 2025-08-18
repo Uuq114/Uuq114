@@ -45,11 +45,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2025 - To: 16 August 2025
+From: 10 August 2025 - To: 17 August 2025
 
-SSH Config   38 mins         >>>>>>>>>>---------------   38.45 %
-YAML         36 mins         >>>>>>>>>----------------   36.55 %
-Markdown     25 mins         >>>>>>-------------------   24.99 %
+YAML         36 mins         >>>>>>>>>>>>>>-----------   57.09 %
+SSH Config   27 mins         >>>>>>>>>>>--------------   42.90 %
 textmate     0 secs          -------------------------   00.01 %
 Lua          0 secs          -------------------------   00.00 %
 ```
