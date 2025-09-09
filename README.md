@@ -45,12 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2025 - To: 07 September 2025
+From: 01 September 2025 - To: 08 September 2025
 
-Text       21 mins         >>>>>>>>>>>>>>>>>--------   69.84 %
-YAML       5 mins          >>>>>--------------------   18.27 %
-textmate   3 mins          >>>----------------------   11.83 %
-Lua        0 secs          -------------------------   00.05 %
+YAML         53 mins         >>>>>>>>>>>>>>>>>>>>>----   84.84 %
+Markdown     9 mins          >>>>---------------------   14.61 %
+SSH Config   0 secs          -------------------------   00.50 %
+Lua          0 secs          -------------------------   00.04 %
+textmate     0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
