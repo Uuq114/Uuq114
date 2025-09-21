@@ -45,7 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 September 2025 - To: 18 September 2025
+From: 13 September 2025 - To: 20 September 2025
 
 YAML             34 mins         >>>>>>>>>>>--------------   43.52 %
 MATLAB           24 mins         >>>>>>>>-----------------   31.66 %
