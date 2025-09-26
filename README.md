@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2025 - To: 24 September 2025
+From: 18 September 2025 - To: 25 September 2025
 
-Markdown   29 mins         >>>>>>>>>>>>>>>>---------   64.49 %
-YAML       13 mins         >>>>>>>>-----------------   30.18 %
-MATLAB     2 mins          >------------------------   04.65 %
-textmate   0 secs          -------------------------   00.65 %
-Lua        0 secs          -------------------------   00.04 %
+Lua        20 mins         >>>>>>>>>----------------   35.04 %
+YAML       19 mins         >>>>>>>>-----------------   33.27 %
+Markdown   16 mins         >>>>>>>------------------   27.24 %
+textmate   2 mins          >------------------------   04.19 %
+MATLAB     0 secs          -------------------------   00.27 %
 ```
 
 <!--END_SECTION:waka-->
