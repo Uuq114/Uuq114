@@ -45,10 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2025 - To: 01 December 2025
+From: 25 November 2025 - To: 02 December 2025
 
-Text     12 mins         >>>>>>>>>>>>>>>>>--------   66.93 %
-Python   6 mins          >>>>>>>>-----------------   33.07 %
+Text               13 mins         >>>>>>>>>>>--------------   43.53 %
+YAML               10 mins         >>>>>>>>-----------------   32.71 %
+Python             6 mins          >>>>>--------------------   19.46 %
+Ruby               0 secs          -------------------------   01.61 %
+Makefile           0 secs          -------------------------   01.35 %
 ```
 
 <!--END_SECTION:waka-->
