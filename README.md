@@ -45,12 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 December 2025 - To: 21 December 2025
+From: 15 December 2025 - To: 22 December 2025
 
-YAML       17 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   99.62 %
-Python     0 secs          -------------------------   00.18 %
-Text       0 secs          -------------------------   00.18 %
-textmate   0 secs          -------------------------   00.02 %
+Markdown   1 hr 15 mins    >>>>>>>>>>>>>>>>>>>>-----   78.02 %
+YAML       20 mins         >>>>>--------------------   20.76 %
+Text       1 min           -------------------------   01.18 %
+Python     0 secs          -------------------------   00.03 %
+textmate   0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
