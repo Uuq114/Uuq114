@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 January 2026 - To: 13 January 2026
+From: 07 January 2026 - To: 14 January 2026
 
-Markdown           1 hr 42 mins    >>>>>>>>>>>>>>>----------   58.23 %
-YAML               35 mins         >>>>>--------------------   20.42 %
-Puppet             11 mins         >>-----------------------   06.72 %
-Python             8 mins          >------------------------   04.57 %
-textmate           6 mins          >------------------------   03.43 %
+Python           1 hr 49 mins    >>>>>>>>>>>--------------   44.51 %
+Markdown         1 hr 44 mins    >>>>>>>>>>>--------------   42.44 %
+YAML             20 mins         >>-----------------------   08.36 %
+CSV/TSV          5 mins          >------------------------   02.24 %
+PythonStub       3 mins          -------------------------   01.27 %
 ```
 
 <!--END_SECTION:waka-->
