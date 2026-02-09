@@ -45,7 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2026 - To: 07 February 2026
+From: 01 February 2026 - To: 08 February 2026
 
 Python           4 hrs 4 mins    >>>>>>>>>>---------------   38.94 %
 YAML             3 hrs 48 mins   >>>>>>>>>----------------   36.42 %
