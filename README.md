@@ -45,12 +45,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2026 - To: 09 February 2026
+From: 03 February 2026 - To: 10 February 2026
 
-Python           9 hrs 27 mins   >>>>>>>>>>>>>>>----------   58.46 %
-YAML             3 hrs 20 mins   >>>>>--------------------   20.62 %
-Markdown         2 hrs 55 mins   >>>>>--------------------   18.04 %
-SQL              7 mins          -------------------------   00.72 %
+Python           9 hrs 46 mins   >>>>>>>>>>>>>>>----------   61.40 %
+Markdown         3 hrs 55 mins   >>>>>>-------------------   24.59 %
+YAML             1 hr 34 mins    >>-----------------------   09.87 %
+SQL              17 mins         -------------------------   01.86 %
 Text             5 mins          -------------------------   00.56 %
 ```
 
