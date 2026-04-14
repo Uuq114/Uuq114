@@ -45,10 +45,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2026 - To: 12 April 2026
+From: 06 April 2026 - To: 13 April 2026
 
-YAML    1 hr 38 mins          >>>>>>>>>>>>>>>>>>>>>>>--   91.98 %
-Other   8 mins                >>-----------------------   08.02 %
+YAML    2 hrs 1 min           >>>>>>>>>>>>>>>>>>>>>>>--   91.17 %
+Other   8 mins                >>-----------------------   06.42 %
+JSON    3 mins                >------------------------   02.41 %
 ```
 
 <!--END_SECTION:waka-->
