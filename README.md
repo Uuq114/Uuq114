@@ -45,12 +45,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 April 2026 - To: 04 May 2026
+From: 28 April 2026 - To: 05 May 2026
 
-JSON         2 hrs 15 mins         >>>>>>>>>>>>>>>>>>-------   72.52 %
-Other        27 mins               >>>>---------------------   14.89 %
-Markdown     11 mins               >>-----------------------   06.44 %
-SSH Config   11 mins               >>-----------------------   06.15 %
+JSON         2 hrs 7 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   98.76 %
+SSH Config   1 min                 -------------------------   01.24 %
 ```
 
 <!--END_SECTION:waka-->
