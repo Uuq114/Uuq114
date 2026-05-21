@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 May 2026 - To: 19 May 2026
+From: 13 May 2026 - To: 20 May 2026
 
-Other        5 hrs 5 mins          >>>>>>>>>----------------   35.48 %
-Python       4 hrs 45 mins         >>>>>>>>-----------------   33.05 %
-Markdown     3 hrs 51 mins         >>>>>>>------------------   26.80 %
-YAML         31 mins               >------------------------   03.71 %
-Git Config   5 mins                -------------------------   00.58 %
+Python       4 hrs 29 mins         >>>>>>>>>----------------   36.44 %
+Markdown     3 hrs 48 mins         >>>>>>>>-----------------   30.97 %
+Other        3 hrs 20 mins         >>>>>>>------------------   27.14 %
+YAML         31 mins               >------------------------   04.33 %
+Git Config   5 mins                -------------------------   00.68 %
 ```
 
 <!--END_SECTION:waka-->
