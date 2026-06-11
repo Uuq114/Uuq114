@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2026 - To: 09 June 2026
+From: 03 June 2026 - To: 10 June 2026
 
-Markdown     7 hrs 32 mins         >>>>>>>>>----------------   37.94 %
-Other        5 hrs 55 mins         >>>>>>>------------------   29.78 %
-JavaScript   2 hrs 3 mins          >>>----------------------   10.36 %
-Python       1 hr 23 mins          >>-----------------------   07.02 %
-TypeScript   55 mins               >------------------------   04.68 %
+Other        6 hrs 58 mins         >>>>>>>>>>>>-------------   46.99 %
+Markdown     4 hrs 4 mins          >>>>>>>------------------   27.51 %
+Python       1 hr 23 mins          >>-----------------------   09.40 %
+JavaScript   59 mins               >>-----------------------   06.71 %
+YAML         27 mins               >------------------------   03.09 %
 ```
 
 <!--END_SECTION:waka-->
