@@ -45,10 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 June 2026 - To: 29 June 2026
+From: 23 June 2026 - To: 30 June 2026
 
-Python   52 mins               >>>>>>>>>>>>>>>>---------   63.06 %
-Other    30 mins               >>>>>>>>>----------------   36.94 %
+Python       7 hrs 18 mins         >>>>>>>>>>>>-------------   46.48 %
+PowerShell   2 hrs 40 mins         >>>>---------------------   17.05 %
+Other        2 hrs 11 mins         >>>----------------------   13.94 %
+Markdown     2 hrs 3 mins          >>>----------------------   13.14 %
+YAML         58 mins               >>-----------------------   06.25 %
 ```
 
 <!--END_SECTION:waka-->
