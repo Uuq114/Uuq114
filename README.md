@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2026 - To: 01 July 2026
+From: 25 June 2026 - To: 02 July 2026
 
-Python       5 hrs 50 mins         >>>>>>>>>>---------------   38.41 %
-Markdown     3 hrs 9 mins          >>>>>--------------------   20.80 %
-PowerShell   2 hrs 40 mins         >>>>---------------------   17.62 %
-Other        2 hrs 14 mins         >>>>---------------------   14.72 %
-YAML         1 hr 17 mins          >>-----------------------   08.46 %
+Python       5 hrs 50 mins         >>>>>>>>>>---------------   41.79 %
+Markdown     5 hrs 22 mins         >>>>>>>>>>---------------   38.46 %
+YAML         1 hr 22 mins          >>-----------------------   09.85 %
+Other        50 mins               >>-----------------------   06.00 %
+PowerShell   30 mins               >------------------------   03.61 %
 ```
 
 <!--END_SECTION:waka-->
