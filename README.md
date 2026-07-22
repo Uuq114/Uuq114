@@ -45,12 +45,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2026 - To: 20 July 2026
+From: 14 July 2026 - To: 21 July 2026
 
-Markdown   2 hrs 54 mins         >>>>>>>>>>>--------------   42.04 %
-Other      2 hrs 32 mins         >>>>>>>>>----------------   36.82 %
-Python     58 mins               >>>>---------------------   14.05 %
-Bash       29 mins               >>-----------------------   07.09 %
+Markdown   3 hrs 56 mins         >>>>>>>>>>>>-------------   49.35 %
+Other      2 hrs 34 mins         >>>>>>>>-----------------   32.19 %
+Python     59 mins               >>>----------------------   12.33 %
+Bash       29 mins               >>-----------------------   06.13 %
 ```
 
 <!--END_SECTION:waka-->
