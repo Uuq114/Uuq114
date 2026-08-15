@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2026 - To: 13 August 2026
+From: 07 August 2026 - To: 14 August 2026
 
-Python      4 hrs 3 mins          >>>>>>>>>>>>-------------   49.00 %
-Markdown    1 hr 55 mins          >>>>>>-------------------   23.23 %
-Other       1 hr                  >>>----------------------   12.18 %
-Batchfile   49 mins               >>-----------------------   09.90 %
-Lua         10 mins               >------------------------   02.18 %
+Markdown    1 hr 54 mins          >>>>>>>>>----------------   34.19 %
+Python      1 hr 26 mins          >>>>>>-------------------   25.64 %
+Other       1 hr 1 min            >>>>>--------------------   18.27 %
+Bash        28 mins               >>-----------------------   08.63 %
+Batchfile   26 mins               >>-----------------------   07.90 %
 ```
 
 <!--END_SECTION:waka-->
