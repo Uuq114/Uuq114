@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2026 - To: 25 August 2026
+From: 19 August 2026 - To: 26 August 2026
 
-Bash         4 hrs 44 mins         >>>>>>>>>----------------   35.03 %
-HTML         4 hrs 18 mins         >>>>>>>>-----------------   31.77 %
-JavaScript   1 hr 25 mins          >>>----------------------   10.49 %
-Python       1 hr 14 mins          >>-----------------------   09.10 %
-CSV          29 mins               >------------------------   03.57 %
+HTML         4 hrs 18 mins         >>>>>>>>>----------------   36.94 %
+Bash         2 hrs 55 mins         >>>>>>-------------------   25.14 %
+JavaScript   1 hr 25 mins          >>>----------------------   12.20 %
+Python       1 hr 14 mins          >>>----------------------   10.59 %
+Other        28 mins               >------------------------   04.02 %
 ```
 
 <!--END_SECTION:waka-->
