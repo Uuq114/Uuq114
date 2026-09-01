@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2026 - To: 30 August 2026
+From: 24 August 2026 - To: 31 August 2026
 
-Bash       1 hr 54 mins          >>>>>>>>>>---------------   39.85 %
-HTML       52 mins               >>>>>--------------------   18.31 %
-Markdown   35 mins               >>>----------------------   12.35 %
-Other      28 mins               >>-----------------------   09.91 %
-textmate   19 mins               >>-----------------------   06.83 %
+Markdown   3 hrs 33 mins         >>>>>>>------------------   28.23 %
+Shell      3 hrs 26 mins         >>>>>>>------------------   27.30 %
+Other      3 hrs 9 mins          >>>>>>-------------------   25.01 %
+Bash       1 hr 53 mins          >>>>---------------------   14.98 %
+textmate   17 mins               >------------------------   02.33 %
 ```
 
 <!--END_SECTION:waka-->
